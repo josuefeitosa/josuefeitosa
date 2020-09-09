@@ -29,4 +29,4 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="PowerBI" width="26px" src="https://www.vhv.rs/dpng/d/611-6114310_microsoft-power-bi-logo-png-picture-power-bi.png" />
-<img align="left" alt="Qlik" width="26px" src="https://avatars1.githubusercontent.com/u/23365920?s=200&v=4" />
+<img align="left" alt="Qlik" width="26px" src="https://icon2.cleanpng.com/20180425/kcw/kisspng-qlik-business-intelligence-software-dashboard-logo-5ae07723d7ccf1.9585457715246600038839.jpg" />
