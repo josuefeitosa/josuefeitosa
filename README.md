@@ -1,7 +1,7 @@
 ### Hi there, I'm Josué! 👋
 
 ## I am a Fullstack Web Developer!
-- 🔭 I'm currently working on [Lemon Solutions] (https://lemonsolutions.com.br)
+- 🔭 I'm currently working on [Lemon Solutions](https://lemonsolutions.com.br)
 - 🎯 I prefer to say that I am a solution developer!
 
 ### Connect with me:
