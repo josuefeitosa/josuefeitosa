@@ -1,16 +1,15 @@
 ### Hi there, I'm Josué! 👋
 
-### I'm a Fullstack Web Developer!
+### Actually I'm Head of BI and Web Analytics for Ecommerce!
 - 🖥 I'm graduated in Computer Engineering
-- 🔭 Currently working on [Lemon Solutions](https://lemonsolutions.com.br)
-- 🎯 I prefer to say that I am a solution developer!
-- 🚀 Also I develop solutions using Business Intelligence tools, such as Power BI and Qlik (Sense/View).
+- 🔭 Currently working on [Sodimac Brasil](https://www.sodimac.com.br/sodimac-br/)
+- 🚀 Also I have experience as Full-Stack Web developer! (2 years working for Lemon Solutions, in an OMS Solution for marketplaces integration).
 
 ### Connect with me:
 
 [<img align="left" alt="Josué Feitosa" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/josueccb)
 [<img align="left" alt="Josué Feitosa | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/josue_feitosa95)
-[<img align="left" alt="Josué Feitosa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/josu%C3%A9-feitosa-43a4608a)
+[<img align="left" alt="Josué Feitosa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/josue-feitosa/)
 [<img align="left" alt="Josué Feitosa | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/josue.feitosa)
 
 <br />
